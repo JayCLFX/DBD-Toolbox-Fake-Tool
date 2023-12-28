@@ -1,0 +1,40 @@
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\DBD Toolbox Remake.exe.config
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\DBD Toolbox Remake.exe
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\DBD Toolbox Remake.pdb
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\CoreExtensions.StringBuilder.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\Ionic.Zlib.Core.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Buffers.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Memory.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.Assets.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.Core.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.Objects.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.Pak.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.TypeFactory.dll
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Buffers.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Memory.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.Assets.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.Core.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.Objects.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.Pak.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\UETools.TypeFactory.xml
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD Toolbox Remake.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD Toolbox Remake.csproj.SuggestedBindingRedirects.cache
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD_Toolbox_Remake.MainWindow.resources
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD_Toolbox_Remake.Properties.Resources.resources
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD Toolbox Remake.csproj.GenerateResource.cache
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD Toolbox Remake.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD Toolbox Remake.csproj.CopyComplete
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD Toolbox Remake.exe
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\obj\Debug\DBD Toolbox Remake.pdb
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\DBD_Toolbox_Runtime.exe
+C:\Users\JayC\source\repos\DBD Toolbox\DBD Toolbox Remake\bin\Debug\test.bat
